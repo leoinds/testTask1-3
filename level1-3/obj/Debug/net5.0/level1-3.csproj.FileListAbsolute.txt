@@ -1,0 +1,16 @@
+C:\Users\l.ermakovich\source\repos\level1-3\bin\Debug\net5.0\level1-3.exe
+C:\Users\l.ermakovich\source\repos\level1-3\bin\Debug\net5.0\level1-3.deps.json
+C:\Users\l.ermakovich\source\repos\level1-3\bin\Debug\net5.0\level1-3.runtimeconfig.json
+C:\Users\l.ermakovich\source\repos\level1-3\bin\Debug\net5.0\level1-3.runtimeconfig.dev.json
+C:\Users\l.ermakovich\source\repos\level1-3\bin\Debug\net5.0\level1-3.dll
+C:\Users\l.ermakovich\source\repos\level1-3\bin\Debug\net5.0\ref\level1-3.dll
+C:\Users\l.ermakovich\source\repos\level1-3\bin\Debug\net5.0\level1-3.pdb
+C:\Users\l.ermakovich\source\repos\level1-3\obj\Debug\net5.0\level1-3.csproj.AssemblyReference.cache
+C:\Users\l.ermakovich\source\repos\level1-3\obj\Debug\net5.0\level1-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.ermakovich\source\repos\level1-3\obj\Debug\net5.0\level1-3.AssemblyInfoInputs.cache
+C:\Users\l.ermakovich\source\repos\level1-3\obj\Debug\net5.0\level1-3.AssemblyInfo.cs
+C:\Users\l.ermakovich\source\repos\level1-3\obj\Debug\net5.0\level1-3.csproj.CoreCompileInputs.cache
+C:\Users\l.ermakovich\source\repos\level1-3\obj\Debug\net5.0\level1-3.dll
+C:\Users\l.ermakovich\source\repos\level1-3\obj\Debug\net5.0\ref\level1-3.dll
+C:\Users\l.ermakovich\source\repos\level1-3\obj\Debug\net5.0\level1-3.pdb
+C:\Users\l.ermakovich\source\repos\level1-3\obj\Debug\net5.0\level1-3.genruntimeconfig.cache
